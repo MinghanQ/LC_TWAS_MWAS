@@ -18,3 +18,9 @@ data/
   gene_expression_model_weight
   DNAm_model_weight
 ```
+
+## Model weights
+
+The trained model weights are available on Zenodo:
+
+Qu M. East Asian gene expression prediction model weights for transcriptome-wide association analysis. Zenodo. DOI: (https://doi.org/10.5281/zenodo.20685933)
